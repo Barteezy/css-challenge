@@ -6,6 +6,6 @@
 
 -Make the class "box" have a yellow background.
 
--"Right" class should align right
+-"right" class should align right
 
--"Left" class should align left.
+-"left" class should align left.
